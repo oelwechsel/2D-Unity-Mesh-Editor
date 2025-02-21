@@ -11,3 +11,4 @@ Place this script inside the `Assets/Editor` folder to ensure that it is only co
 - Click left mouse button to place a vertex (vertices will connect automatically)
 - Hold left mouse button to drag vertex around
 - Press backspace to remove last placed vertex
+
